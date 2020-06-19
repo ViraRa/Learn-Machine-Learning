@@ -4,7 +4,7 @@
 
 - Unsupervised Learning - Given features from a data set cluster similiar and different features together. Use the appropriate classifer such as k means clustering to identify unknown data points. The result is a set of labels for the features that served as inputs
 
-- Train the model then infer from the model
+- Train the model then infer from the model.
 
 
 ![image](https://github.com/ViraRa/Learn-Machine-Learning/blob/master/ML%20Model.png)
