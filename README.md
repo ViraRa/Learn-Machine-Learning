@@ -7,4 +7,4 @@
 - Train the model then infer from the model
 
 
-![image](https://ViraRa.github.com/Learn-Machine-Learning/ML Model.png)
+![image](https://github.com/ViraRa/Learn-Machine-Learning/blob/master/ML%20Model.png)
