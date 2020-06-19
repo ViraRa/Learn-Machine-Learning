@@ -24,10 +24,3 @@ OutPut ------->                                          |
                                                         V
                                                         Result
 """ 
-
-class ML: 
-
-    def __init__(self):
-        pass
-
-obj = ML()
