@@ -6,4 +6,4 @@
 
 - Train the model then infer from the model
 
-![image](https://images.app.goo.gl/oMAgKdPictxT8gKS8)
+
