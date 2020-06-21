@@ -5,11 +5,9 @@ you can train the model using the unexpected output to make it better
 
 - Unsupervised Learning - Given features from a data set cluster similiar and different features together. Use the appropriate classifer such as k means clustering to identify unknown data points. The result is a set of labels for the features that served as inputs
 
-- Reinforcement Learning - No features and no lables. We have an agent, environment and 
-reward. Agent is the one acting upon a reward/negative reward. If given a reward for something right then the machine learns it and remembers it. Same for a negative reward. This is how you train the model. The point is to maximize the reward so that when the model is 
-given testing data it can figure out the rules that lead to the output. 
+- Reinforcement Learning - No features and no labels. We have an agent, environment and reward. Agent is the one acting upon a reward/negative reward. If given a reward for something right then the machine learns it and remembers it. Same for a negative reward. This is how you train the model. The point is to maximize the reward so that when the model is given testing data it can figure out the rules that lead to the output. 
 
-- Train the model with sample data then infer from the model using testing data
+- Train the model with training data then infer from the model using testing data
 
 
 ![image](https://github.com/ViraRa/Learn-Machine-Learning/blob/master/ML%20Model.png)
